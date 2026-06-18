@@ -1,0 +1,82 @@
+[
+    {
+        "date": "2026-06-17",
+        "subject": "computer science",
+        "topic": "python",
+        "difficulty": "medium",
+        "total_questions": 2,
+        "correct": 2,
+        "wrong": 0,
+        "accuracy": 100.0
+    },
+    {
+        "date": "2026-06-17",
+        "subject": "chemistry",
+        "topic": "organic chemistry",
+        "difficulty": null,
+        "total_questions": 5,
+        "correct": 5,
+        "wrong": 0,
+        "accuracy": 100.0
+    },
+    {
+        "date": "2026-06-17",
+        "subject": "physics",
+        "topic": "mechanics",
+        "difficulty": null,
+        "total_questions": 7,
+        "correct": 1,
+        "wrong": 6,
+        "accuracy": 14.29
+    },
+    {
+        "date": "2026-06-17",
+        "subject": "mathematics",
+        "topic": "algebra",
+        "difficulty": null,
+        "total_questions": 5,
+        "correct": 2,
+        "wrong": 3,
+        "accuracy": 40.0
+    },
+    {
+        "date": "2026-06-17",
+        "subject": "computer science",
+        "topic": null,
+        "difficulty": null,
+        "total_questions": 6,
+        "correct": 1,
+        "wrong": 5,
+        "accuracy": 16.67
+    },
+    {
+        "date": "2026-06-17",
+        "subject": "physics",
+        "topic": "electricity",
+        "difficulty": "medium",
+        "total_questions": 2,
+        "correct": 1,
+        "wrong": 1,
+        "accuracy": 50.0
+    },
+    {
+        "date": "2026-06-17",
+        "subject": "physics",
+        "topic": "electricity",
+        "difficulty": "medium",
+        "total_questions": 2,
+        "correct": 0,
+        "wrong": 2,
+        "accuracy": 0.0
+    },
+    {
+        "date": "2026-06-18",
+        "subject": "physics",
+        "topic": null,
+        "difficulty": "medium",
+        "total_questions": 7,
+        "correct": 2,
+        "wrong": 5,
+        "accuracy": 28.57
+    }
+]

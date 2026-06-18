@@ -1,0 +1,816 @@
+[
+{
+    "subject":"physics",
+    "topic":"mechanics",
+    "difficulty":"easy",
+    "question":"What is the SI unit of force?",
+    "options":["Joule","Newton","Watt","Pascal"],
+    "answer":"Newton"
+},
+{
+    "subject":"physics",
+    "topic":"mechanics",
+    "difficulty":"easy",
+    "question":"Which law states that every action has an equal and opposite reaction?",
+    "options":["First Law","Second Law","Third Law","Law of Gravitation"],
+    "answer":"Third Law"
+},
+{
+    "subject":"physics",
+    "topic":"mechanics",
+    "difficulty":"easy",
+    "question":"Speed is defined as:",
+    "options":["Distance × Time","Distance / Time","Time / Distance","Mass × Acceleration"],
+    "answer":"Distance / Time"
+},
+{
+    "subject":"physics",
+    "topic":"mechanics",
+    "difficulty":"medium",
+    "question":"A body travels 120 m in 6 s. What is its average speed?",
+    "options":["10 m/s","15 m/s","20 m/s","25 m/s"],
+    "answer":"20 m/s"
+},
+{
+    "subject":"physics",
+    "topic":"mechanics",
+    "difficulty":"medium",
+    "question":"What is the SI unit of momentum?",
+    "options":["kg·m/s","N/m","kg/m³","J/s"],
+    "answer":"kg·m/s"
+},
+{
+    "subject":"physics",
+    "topic":"mechanics",
+    "difficulty":"medium",
+    "question":"What is the acceleration due to gravity on Earth?",
+    "options":["8.9 m/s²","9.8 m/s²","10.8 m/s²","12 m/s²"],
+    "answer":"9.8 m/s²"
+},
+{
+    "subject":"physics",
+    "topic":"mechanics",
+    "difficulty":"hard",
+    "question":"If force is doubled and mass remains constant, acceleration becomes:",
+    "options":["Half","Double","Four times","Unchanged"],
+    "answer":"Double"
+},
+{
+    "subject":"physics",
+    "topic":"mechanics",
+    "difficulty":"hard",
+    "question":"The kinetic energy of a body is proportional to:",
+    "options":["v","v²","1/v","√v"],
+    "answer":"v²"
+},
+
+{
+    "subject":"physics",
+    "topic":"waves",
+    "difficulty":"easy",
+    "question":"What is the SI unit of frequency?",
+    "options":["Hertz","Joule","Newton","Volt"],
+    "answer":"Hertz"
+},
+{
+    "subject":"physics",
+    "topic":"waves",
+    "difficulty":"easy",
+    "question":"Sound travels fastest in:",
+    "options":["Vacuum","Air","Water","Steel"],
+    "answer":"Steel"
+},
+{
+    "subject":"physics",
+    "topic":"waves",
+    "difficulty":"medium",
+    "question":"Frequency is measured as:",
+    "options":["Cycles per second","Distance per second","Energy per second","Force per second"],
+    "answer":"Cycles per second"
+},
+{
+    "subject":"physics",
+    "topic":"waves",
+    "difficulty":"medium",
+    "question":"Which wave can travel through vacuum?",
+    "options":["Sound Wave","Water Wave","Electromagnetic Wave","Seismic Wave"],
+    "answer":"Electromagnetic Wave"
+},
+{
+    "subject":"physics",
+    "topic":"waves",
+    "difficulty":"hard",
+    "question":"Wave speed is given by:",
+    "options":["f / λ","f × λ","λ / f","f²λ"],
+    "answer":"f × λ"
+},
+
+{
+    "subject":"physics",
+    "topic":"electricity",
+    "difficulty":"easy",
+    "question":"What is the SI unit of electric current?",
+    "options":["Volt","Ampere","Ohm","Watt"],
+    "answer":"Ampere"
+},
+{
+    "subject":"physics",
+    "topic":"electricity",
+    "difficulty":"easy",
+    "question":"Which device measures electric current?",
+    "options":["Voltmeter","Ammeter","Barometer","Thermometer"],
+    "answer":"Ammeter"
+},
+{
+    "subject":"physics",
+    "topic":"electricity",
+    "difficulty":"medium",
+    "question":"According to Ohm's law, V = ?",
+    "options":["IR","I/R","R/I","I+R"],
+    "answer":"IR"
+},
+{
+    "subject":"physics",
+    "topic":"electricity",
+    "difficulty":"medium",
+    "question":"The SI unit of resistance is:",
+    "options":["Volt","Ampere","Ohm","Tesla"],
+    "answer":"Ohm"
+},
+{
+    "subject":"physics",
+    "topic":"electricity",
+    "difficulty":"hard",
+    "question":"Power consumed by an electrical device is given by:",
+    "options":["V/I","VI","I/R","R/V"],
+    "answer":"VI"
+},
+
+{
+    "subject":"physics",
+    "topic":"optics",
+    "difficulty":"easy",
+    "question":"Which mirror is used in rear-view mirrors of vehicles?",
+    "options":["Plane","Concave","Convex","Cylindrical"],
+    "answer":"Convex"
+},
+{
+    "subject":"physics",
+    "topic":"optics",
+    "difficulty":"easy",
+    "question":"The image formed by a plane mirror is:",
+    "options":["Real","Virtual","Inverted","Magnified"],
+    "answer":"Virtual"
+},
+{
+    "subject":"physics",
+    "topic":"optics",
+    "difficulty":"medium",
+    "question":"Which lens is used to correct myopia?",
+    "options":["Convex","Concave","Bifocal","Plane"],
+    "answer":"Concave"
+},
+{
+    "subject":"physics",
+    "topic":"optics",
+    "difficulty":"medium",
+    "question":"The speed of light in vacuum is approximately:",
+    "options":["3 × 10⁸ m/s","3 × 10⁶ m/s","3 × 10⁴ m/s","3 × 10¹⁰ m/s"],
+    "answer":"3 × 10⁸ m/s"
+},
+{
+    "subject":"physics",
+    "topic":"optics",
+    "difficulty":"hard",
+    "question":"The unit of power of a lens is:",
+    "options":["Dioptre","Lux","Candela","Tesla"],
+    "answer":"Dioptre"
+},
+{
+    "subject":"physics",
+    "topic":"optics",
+    "difficulty":"hard",
+    "question":"A convex lens converges parallel rays at its:",
+    "options":["Center","Focus","Pole","Axis"],
+    "answer":"Focus"
+},
+{
+    "subject":"physics",
+    "topic":"mechanics",
+    "difficulty":"hard",
+    "question":"Work done is maximum when the angle between force and displacement is:",
+    "options":["0°","45°","90°","180°"],
+    "answer":"0°"
+},
+
+{
+    "subject":"chemistry",
+    "topic":"atomic structure",
+    "difficulty":"easy",
+    "question":"Who discovered the electron?",
+    "options":["Rutherford","Bohr","J.J. Thomson","Chadwick"],
+    "answer":"J.J. Thomson"
+},
+{
+    "subject":"chemistry",
+    "topic":"atomic structure",
+    "difficulty":"easy",
+    "question":"Which particle has a negative charge?",
+    "options":["Proton","Neutron","Electron","Nucleus"],
+    "answer":"Electron"
+},
+{
+    "subject":"chemistry",
+    "topic":"atomic structure",
+    "difficulty":"medium",
+    "question":"The atomic number of an element equals the number of:",
+    "options":["Neutrons","Electrons only","Protons","Nucleons"],
+    "answer":"Protons"
+},
+{
+    "subject":"chemistry",
+    "topic":"atomic structure",
+    "difficulty":"medium",
+    "question":"Who discovered the nucleus of the atom?",
+    "options":["Bohr","Rutherford","Dalton","Chadwick"],
+    "answer":"Rutherford"
+},
+{
+    "subject":"chemistry",
+    "topic":"atomic structure",
+    "difficulty":"hard",
+    "question":"Which subatomic particle contributes most to atomic mass?",
+    "options":["Electron","Photon","Protons and Neutrons","Positron"],
+    "answer":"Protons and Neutrons"
+},
+{
+    "subject":"chemistry",
+    "topic":"chemical bonding",
+    "difficulty":"easy",
+    "question":"What type of bond is formed by sharing electrons?",
+    "options":["Ionic","Covalent","Metallic","Hydrogen"],
+    "answer":"Covalent"
+},
+{
+    "subject":"chemistry",
+    "topic":"chemical bonding",
+    "difficulty":"easy",
+    "question":"NaCl is an example of which bond?",
+    "options":["Covalent","Hydrogen","Ionic","Metallic"],
+    "answer":"Ionic"
+},
+{
+    "subject":"chemistry",
+    "topic":"chemical bonding",
+    "difficulty":"medium",
+    "question":"A water molecule contains which type of bond?",
+    "options":["Ionic","Covalent","Metallic","Coordinate"],
+    "answer":"Covalent"
+},
+{
+    "subject":"chemistry",
+    "topic":"chemical bonding",
+    "difficulty":"medium",
+    "question":"Which bond is generally strongest?",
+    "options":["Hydrogen Bond","Van der Waals Force","Covalent Bond","Dipole Force"],
+    "answer":"Covalent Bond"
+},
+{
+    "subject":"chemistry",
+    "topic":"chemical bonding",
+    "difficulty":"hard",
+    "question":"A coordinate bond forms when:",
+    "options":["Both atoms donate one electron","One atom donates both electrons","No electrons are shared","Protons are transferred"],
+    "answer":"One atom donates both electrons"
+},
+{
+    "subject":"chemistry",
+    "topic":"periodic table",
+    "difficulty":"easy",
+    "question":"Which element has the symbol O?",
+    "options":["Gold","Oxygen","Osmium","Oxide"],
+    "answer":"Oxygen"
+},
+{
+    "subject":"chemistry",
+    "topic":"periodic table",
+    "difficulty":"easy",
+    "question":"How many groups are in the modern periodic table?",
+    "options":["8","12","18","20"],
+    "answer":"18"
+},
+{
+    "subject":"chemistry",
+    "topic":"periodic table",
+    "difficulty":"medium",
+    "question":"Which group contains the noble gases?",
+    "options":["Group 1","Group 2","Group 17","Group 18"],
+    "answer":"Group 18"
+},
+{
+    "subject":"chemistry",
+    "topic":"periodic table",
+    "difficulty":"medium",
+    "question":"Which element is located in Group 1?",
+    "options":["Helium","Sodium","Chlorine","Neon"],
+    "answer":"Sodium"
+},
+{
+    "subject":"chemistry",
+    "topic":"periodic table",
+    "difficulty":"hard",
+    "question":"Which element has the highest electronegativity?",
+    "options":["Oxygen","Fluorine","Chlorine","Nitrogen"],
+    "answer":"Fluorine"
+},
+{
+    "subject":"chemistry",
+    "topic":"organic chemistry",
+    "difficulty":"easy",
+    "question":"Which element is common to all organic compounds?",
+    "options":["Hydrogen","Oxygen","Carbon","Nitrogen"],
+    "answer":"Carbon"
+},
+{
+    "subject":"chemistry",
+    "topic":"organic chemistry",
+    "difficulty":"easy",
+    "question":"CH4 is the chemical formula of:",
+    "options":["Ethane","Methane","Propane","Butane"],
+    "answer":"Methane"
+},
+{
+    "subject":"chemistry",
+    "topic":"organic chemistry",
+    "difficulty":"medium",
+    "question":"Which hydrocarbon contains a double bond?",
+    "options":["Alkane","Alkene","Alkyne","Cycloalkane"],
+    "answer":"Alkene"
+},
+{
+    "subject":"chemistry",
+    "topic":"organic chemistry",
+    "difficulty":"medium",
+    "question":"The suffix '-ol' indicates:",
+    "options":["Alcohol","Aldehyde","Ketone","Acid"],
+    "answer":"Alcohol"
+},
+{
+    "subject":"chemistry",
+    "topic":"organic chemistry",
+    "difficulty":"hard",
+    "question":"What is the molecular formula of ethanol?",
+    "options":["CH4","C2H6","C2H5OH","C3H8"],
+    "answer":"C2H5OH"
+},
+{
+    "subject":"chemistry",
+    "topic":"acids and bases",
+    "difficulty":"easy",
+    "question":"What is the pH of a neutral solution?",
+    "options":["0","7","10","14"],
+    "answer":"7"
+},
+{
+    "subject":"chemistry",
+    "topic":"acids and bases",
+    "difficulty":"easy",
+    "question":"Litmus turns red in:",
+    "options":["Acid","Base","Salt","Water"],
+    "answer":"Acid"
+},
+{
+    "subject":"chemistry",
+    "topic":"acids and bases",
+    "difficulty":"medium",
+    "question":"Which of the following is a strong acid?",
+    "options":["HCl","CH3COOH","NH4OH","Na2CO3"],
+    "answer":"HCl"
+},
+{
+    "subject":"chemistry",
+    "topic":"acids and bases",
+    "difficulty":"medium",
+    "question":"Which gas is released when an acid reacts with a carbonate?",
+    "options":["Oxygen","Hydrogen","Carbon Dioxide","Nitrogen"],
+    "answer":"Carbon Dioxide"
+},
+{
+    "subject":"chemistry",
+    "topic":"acids and bases",
+    "difficulty":"hard",
+    "question":"A solution with pH 2 is how many times more acidic than a solution with pH 4?",
+    "options":["2","10","100","1000"],
+    "answer":"100"
+},
+
+{
+    "subject":"mathematics",
+    "topic":"algebra",
+    "difficulty":"easy",
+    "question":"Solve: 2x + 3 = 11",
+    "options":["2","3","4","5"],
+    "answer":"4"
+},
+{
+    "subject":"mathematics",
+    "topic":"algebra",
+    "difficulty":"easy",
+    "question":"What is x² when x = 5?",
+    "options":["10","15","20","25"],
+    "answer":"25"
+},
+{
+    "subject":"mathematics",
+    "topic":"algebra",
+    "difficulty":"medium",
+    "question":"Factorize: x² - 9",
+    "options":["(x-3)(x+3)","(x-9)(x+1)","(x-1)(x-9)","(x+9)(x+1)"],
+    "answer":"(x-3)(x+3)"
+},
+{
+    "subject":"mathematics",
+    "topic":"algebra",
+    "difficulty":"medium",
+    "question":"What is the value of 3² + 4²?",
+    "options":["25","49","12","24"],
+    "answer":"25"
+},
+{
+    "subject":"mathematics",
+    "topic":"algebra",
+    "difficulty":"hard",
+    "question":"If x + y = 10 and x - y = 2, find x.",
+    "options":["4","5","6","7"],
+    "answer":"6"
+},
+
+{
+    "subject":"mathematics",
+    "topic":"geometry",
+    "difficulty":"easy",
+    "question":"How many sides does a hexagon have?",
+    "options":["5","6","7","8"],
+    "answer":"6"
+},
+{
+    "subject":"mathematics",
+    "topic":"geometry",
+    "difficulty":"easy",
+    "question":"The sum of angles in a triangle is:",
+    "options":["90°","180°","270°","360°"],
+    "answer":"180°"
+},
+{
+    "subject":"mathematics",
+    "topic":"geometry",
+    "difficulty":"medium",
+    "question":"Area of a rectangle with length 8 and width 5 is:",
+    "options":["13","26","40","80"],
+    "answer":"40"
+},
+{
+    "subject":"mathematics",
+    "topic":"geometry",
+    "difficulty":"medium",
+    "question":"What is the circumference formula of a circle?",
+    "options":["πr²","2πr","πd²","r²"],
+    "answer":"2πr"
+},
+{
+    "subject":"mathematics",
+    "topic":"geometry",
+    "difficulty":"hard",
+    "question":"A right triangle has sides 3 and 4. Its hypotenuse is:",
+    "options":["5","6","7","8"],
+    "answer":"5"
+},
+
+{
+    "subject":"mathematics",
+    "topic":"trigonometry",
+    "difficulty":"easy",
+    "question":"What is sin 90°?",
+    "options":["0","1","-1","0.5"],
+    "answer":"1"
+},
+{
+    "subject":"mathematics",
+    "topic":"trigonometry",
+    "difficulty":"easy",
+    "question":"What is cos 0°?",
+    "options":["0","1","-1","0.5"],
+    "answer":"1"
+},
+{
+    "subject":"mathematics",
+    "topic":"trigonometry",
+    "difficulty":"medium",
+    "question":"What is tan 45°?",
+    "options":["0","1","√2","2"],
+    "answer":"1"
+},
+{
+    "subject":"mathematics",
+    "topic":"trigonometry",
+    "difficulty":"medium",
+    "question":"What is sin 30°?",
+    "options":["0","0.5","1","√2"],
+    "answer":"0.5"
+},
+{
+    "subject":"mathematics",
+    "topic":"trigonometry",
+    "difficulty":"hard",
+    "question":"sec²θ − tan²θ equals:",
+    "options":["0","1","tan²θ","sec²θ"],
+    "answer":"1"
+},
+
+{
+    "subject":"mathematics",
+    "topic":"calculus",
+    "difficulty":"easy",
+    "question":"Derivative of x is:",
+    "options":["0","1","x","x²"],
+    "answer":"1"
+},
+{
+    "subject":"mathematics",
+    "topic":"calculus",
+    "difficulty":"easy",
+    "question":"Derivative of a constant is:",
+    "options":["0","1","Constant","Undefined"],
+    "answer":"0"
+},
+{
+    "subject":"mathematics",
+    "topic":"calculus",
+    "difficulty":"medium",
+    "question":"Derivative of x² is:",
+    "options":["x","2x","x²","2"],
+    "answer":"2x"
+},
+{
+    "subject":"mathematics",
+    "topic":"calculus",
+    "difficulty":"medium",
+    "question":"Integral of 1 dx is:",
+    "options":["x + C","1 + C","0","x²"],
+    "answer":"x + C"
+},
+{
+    "subject":"mathematics",
+    "topic":"calculus",
+    "difficulty":"hard",
+    "question":"Derivative of sin(x) is:",
+    "options":["cos(x)","-sin(x)","tan(x)","sec(x)"],
+    "answer":"cos(x)"
+},
+
+{
+    "subject":"mathematics",
+    "topic":"statistics",
+    "difficulty":"easy",
+    "question":"Mean of 2, 4, 6 is:",
+    "options":["3","4","5","6"],
+    "answer":"4"
+},
+{
+    "subject":"mathematics",
+    "topic":"statistics",
+    "difficulty":"easy",
+    "question":"Median of 1, 3, 5 is:",
+    "options":["1","3","5","9"],
+    "answer":"3"
+},
+{
+    "subject":"mathematics",
+    "topic":"statistics",
+    "difficulty":"medium",
+    "question":"Mode of 2, 2, 3, 4 is:",
+    "options":["2","3","4","None"],
+    "answer":"2"
+},
+{
+    "subject":"mathematics",
+    "topic":"statistics",
+    "difficulty":"medium",
+    "question":"Mean of 5, 10, 15 is:",
+    "options":["10","15","20","5"],
+    "answer":"10"
+},
+{
+    "subject":"mathematics",
+    "topic":"statistics",
+    "difficulty":"hard",
+    "question":"If the mean of 4 numbers is 10, their total is:",
+    "options":["10","20","30","40"],
+    "answer":"40"
+},
+
+{
+    "subject":"computer science",
+    "topic":"python",
+    "difficulty":"easy",
+    "question":"Which symbol is used to start a comment in Python?",
+    "options":["//","#","/*","--"],
+    "answer":"#"
+},
+{
+    "subject":"computer science",
+    "topic":"python",
+    "difficulty":"easy",
+    "question":"Which function is used to display output in Python?",
+    "options":["input()","print()","display()","show()"],
+    "answer":"print()"
+},
+{
+    "subject":"computer science",
+    "topic":"python",
+    "difficulty":"medium",
+    "question":"What is the data type of [1, 2, 3]?",
+    "options":["Tuple","Set","List","Dictionary"],
+    "answer":"List"
+},
+{
+    "subject":"computer science",
+    "topic":"python",
+    "difficulty":"medium",
+    "question":"Which keyword is used to define a function?",
+    "options":["func","function","define","def"],
+    "answer":"def"
+},
+{
+    "subject":"computer science",
+    "topic":"python",
+    "difficulty":"hard",
+    "question":"What is the output of len('Python')?",
+    "options":["5","6","7","8"],
+    "answer":"6"
+},
+
+{
+    "subject":"computer science",
+    "topic":"oop",
+    "difficulty":"easy",
+    "question":"OOP stands for:",
+    "options":["Object Oriented Programming","Object Ordered Programming","Operation Oriented Programming","Object Open Programming"],
+    "answer":"Object Oriented Programming"
+},
+{
+    "subject":"computer science",
+    "topic":"oop",
+    "difficulty":"easy",
+    "question":"An object is an instance of a:",
+    "options":["Method","Class","Variable","Loop"],
+    "answer":"Class"
+},
+{
+    "subject":"computer science",
+    "topic":"oop",
+    "difficulty":"medium",
+    "question":"Which OOP concept allows code reuse?",
+    "options":["Encapsulation","Inheritance","Polymorphism","Abstraction"],
+    "answer":"Inheritance"
+},
+{
+    "subject":"computer science",
+    "topic":"oop",
+    "difficulty":"medium",
+    "question":"Data hiding is achieved using:",
+    "options":["Inheritance","Polymorphism","Encapsulation","Looping"],
+    "answer":"Encapsulation"
+},
+{
+    "subject":"computer science",
+    "topic":"oop",
+    "difficulty":"hard",
+    "question":"Which OOP concept allows the same method name to behave differently?",
+    "options":["Inheritance","Polymorphism","Encapsulation","Abstraction"],
+    "answer":"Polymorphism"
+},
+
+{
+    "subject":"computer science",
+    "topic":"dbms",
+    "difficulty":"easy",
+    "question":"DBMS stands for:",
+    "options":["Database Management System","Data Backup Management System","Digital Base Management System","Data Build Management System"],
+    "answer":"Database Management System"
+},
+{
+    "subject":"computer science",
+    "topic":"dbms",
+    "difficulty":"easy",
+    "question":"Which language is commonly used to query databases?",
+    "options":["Python","Java","SQL","HTML"],
+    "answer":"SQL"
+},
+{
+    "subject":"computer science",
+    "topic":"dbms",
+    "difficulty":"medium",
+    "question":"Which SQL command retrieves data?",
+    "options":["INSERT","DELETE","SELECT","UPDATE"],
+    "answer":"SELECT"
+},
+{
+    "subject":"computer science",
+    "topic":"dbms",
+    "difficulty":"medium",
+    "question":"Which key uniquely identifies a record?",
+    "options":["Foreign Key","Primary Key","Candidate Key","Alternate Key"],
+    "answer":"Primary Key"
+},
+{
+    "subject":"computer science",
+    "topic":"dbms",
+    "difficulty":"hard",
+    "question":"A foreign key is used to:",
+    "options":["Delete records","Create indexes","Link tables","Sort data"],
+    "answer":"Link tables"
+},
+
+{
+    "subject":"computer science",
+    "topic":"networks",
+    "difficulty":"easy",
+    "question":"What does LAN stand for?",
+    "options":["Local Area Network","Large Area Network","Long Area Network","Linked Area Network"],
+    "answer":"Local Area Network"
+},
+{
+    "subject":"computer science",
+    "topic":"networks",
+    "difficulty":"easy",
+    "question":"The Internet is a collection of:",
+    "options":["Computers","Networks","Databases","Servers"],
+    "answer":"Networks"
+},
+{
+    "subject":"computer science",
+    "topic":"networks",
+    "difficulty":"medium",
+    "question":"Which device forwards data between networks?",
+    "options":["Hub","Switch","Router","Repeater"],
+    "answer":"Router"
+},
+{
+    "subject":"computer science",
+    "topic":"networks",
+    "difficulty":"medium",
+    "question":"Which protocol is used to access web pages?",
+    "options":["FTP","HTTP","SMTP","POP3"],
+    "answer":"HTTP"
+},
+{
+    "subject":"computer science",
+    "topic":"networks",
+    "difficulty":"hard",
+    "question":"What does IP stand for?",
+    "options":["Internet Process","Internet Protocol","Internal Protocol","Integrated Process"],
+    "answer":"Internet Protocol"
+},
+
+{
+    "subject":"computer science",
+    "topic":"algorithms",
+    "difficulty":"easy",
+    "question":"An algorithm is:",
+    "options":["A programming language","A step-by-step procedure","A database","A network"],
+    "answer":"A step-by-step procedure"
+},
+{
+    "subject":"computer science",
+    "topic":"algorithms",
+    "difficulty":"easy",
+    "question":"Which search algorithm checks elements one by one?",
+    "options":["Binary Search","Linear Search","DFS","BFS"],
+    "answer":"Linear Search"
+},
+{
+    "subject":"computer science",
+    "topic":"algorithms",
+    "difficulty":"medium",
+    "question":"Binary Search works efficiently on:",
+    "options":["Sorted data","Unsorted data","Graphs only","Trees only"],
+    "answer":"Sorted data"
+},
+{
+    "subject":"computer science",
+    "topic":"algorithms",
+    "difficulty":"medium",
+    "question":"Which data structure works on LIFO principle?",
+    "options":["Queue","Array","Stack","Linked List"],
+    "answer":"Stack"
+},
+{
+    "subject":"computer science",
+    "topic":"algorithms",
+    "difficulty":"hard",
+    "question":"Which traversal technique uses a queue?",
+    "options":["DFS","BFS","Binary Search","Selection Sort"],
+    "answer":"BFS"
+}
+]
