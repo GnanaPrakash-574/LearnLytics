@@ -46,23 +46,29 @@ Learnlytics is a personalized learning analytics and quiz platform built using P
 
 ```text
 Learnlytics/
-│
-├── 🏠Home.py
-├── analytics.py
-├── storage.py
-│
-├── pages/
-│   ├── 📝Quiz.py
-│   ├── 📜Results.py
-│   ├── 📊Analytics.py
-│   ├── 💡Recommendations.py
-│   └── ⚙️Settings.py
-│
-├── data/
-│   ├── questions.json
-│   └── performance.json
-│
-└── requirements.txt
+│   analytics.py
+│   main.py
+│   quiz.py         # Original CLI
+│   README.md
+│   requirements.txt
+│   storage.py
+|
+│   🏠Home.py
+│   
+├───data
+│       performance.json
+│       questions.json
+│       settings.json
+│       
+├───pages
+│       1_📝Quiz.py
+│       2_📜Results.py
+│       3_📊Analytics.py
+│       4_💡Get Recommendations.py
+│       5_⚙️Settings.py
+│       
+└───static
+        homeimage.png
 ```
 
 ---
@@ -101,6 +107,16 @@ streamlit run 🏠Home.py
 ```
 
 ---
+
+## Project Evolution
+
+> Started as a CLI-based Python quiz application.
+>
+> Added performance tracking and analytics.
+>
+> Migrated to Streamlit as a web application
+>
+> Implemented recommendations, study streaks and learing insights.
 
 ## 🎯 Future Improvements
 
